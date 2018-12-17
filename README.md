@@ -1,7 +1,7 @@
 JIRA Prepend
 ============
 
-System copy provides a vim mapping for extracting the JIRA ticket number
+JIRA Prepend provides a vim mapping for extracting the JIRA ticket number
 from a git branch name for the purposes of prepending it to the start 
 of a commit message. 
 
